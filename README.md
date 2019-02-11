@@ -1,2 +1,2 @@
-# practica1_fdp
+Reporte practica 1FP22LuisDanielErastoCisneros
 Práctica 1 de Fundamentos de Programación
